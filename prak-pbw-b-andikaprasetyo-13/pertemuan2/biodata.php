@@ -14,6 +14,7 @@ $mahasiswa = [
     'prodi' => 'Teknik Informatika',
     'semester' => 5,
     'ipk' => 3.69
+    
 ];
 ?>
 
